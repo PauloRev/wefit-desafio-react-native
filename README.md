@@ -30,7 +30,7 @@
 
 ## Tecnologias
 
-Este projeto foi desenvolvido com a finalidade de avaliação de um desafio React Native:
+Este projeto foi desenvolvido com a finalidade de avaliação de um desafio React Native, as tecnologias usadas foram:
 
 - [React Native](https://reactnative.dev/)
 - [Expo](https://expo.dev/)
