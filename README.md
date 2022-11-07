@@ -17,9 +17,16 @@
   App em React Native que terá como função principal fazer consultas na API do GitHub e pegar os repositórios do usuário selecionado, que poderam ser salvos e listados nos favoritos.
 </h4>
 
+<img align="center" src="https://i.imgur.com/HD9D2ut.png" >
+<img align="center" src="https://i.imgur.com/SXj9N2M.png" >
+
+<br/>
+
 <p align="center">
   <a href="#tecnologias">Tecnologias</a> | <a href="#instruções">Instruções</a>
 </p>
+
+<br/>
 
 ## Tecnologias
 
@@ -35,9 +42,11 @@ Este projeto foi desenvolvido com a finalidade de avaliação de um desafio Reac
 
 - 1- Versão Node utilizada: 18.12.0;
 - 2- O projeto deve ser iniciado normalmente utilizando Expo;
-- 3- Para selecionar um usuário, basta pressionar a engrenagem localizada no topo da tela;
-- 4- Para favoritar ou desfavoritar um repositório basta pressionar o botão que indica a ação.
-- 5- Para realizar qualquer atualização de lista, basta deslizar o dedo para baixo na lista onde os repositórios são exibidos.
+- 3- Na pasta do projeto, rodar o comando **yarn** para instalação das dependências;
+- 4- Após ter instalado as dependências, rodar o comando **expo start** ou **npx expo start**
+- 5- Para selecionar um usuário, basta pressionar a engrenagem localizada no topo da tela;
+- 6- Para favoritar ou desfavoritar um repositório basta pressionar o botão que indica a ação.
+- 7- Para realizar qualquer atualização de lista, basta deslizar o dedo para baixo na lista onde os repositórios são exibidos.
 
 ___
 
